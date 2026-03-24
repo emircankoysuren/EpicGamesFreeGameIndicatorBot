@@ -5,7 +5,7 @@ import os # Bu yeni eklendi
 import feedparser
 
 # --- AYARLAR ---
-TOKEN = 'MTQ1MzQ2ODg2MDgzNjYxMDE0MA.GTxPqG.hZ30y_eBVtshrnFnQYn9O_BYWsVw3ytRjeWws4' 
+TOKEN = 'token' 
 CHANNEL_ID = 1453478819490168933 # SENİN KANAL ID'N
 SENT_GAMES_FILE = "free_games1" # Hafıza dosyası
 # ---------------
